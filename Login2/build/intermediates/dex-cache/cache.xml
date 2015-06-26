@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Login2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Login2\app\build\intermediates\pre-dexed\debug\classes-7eb5bac3f03c95c22a9175dd4b746e3a9f2f2c64.jar" />
+    </item>
+    <item
+        jar="C:\Login2\app\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="C:\Login2\app\build\intermediates\pre-dexed\debug\classes-fa411049944d6d5e64cae0672846a2a450c73ea9.jar" />
+    </item>
+    <item
+        jar="C:\Login2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Login2\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-f811e936d507f77c7054d9bdc2fa361d2590ae9a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mike\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Login2\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-834a7667c8903921eb1f2347249d8ac238c62340.jar" />
+    </item>
+
+</items>
